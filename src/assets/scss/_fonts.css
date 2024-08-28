@@ -1,0 +1,42 @@
+@font-face {
+  font-display: swap;
+  font-family: "Adrianna";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/Adrianna/adrianna-regular.woff2") format("woff2");
+}
+@font-face {
+  font-display: swap;
+  font-family: "Adrianna";
+  font-style: normal;
+  font-weight: 600;
+  src: url("../fonts/Adrianna/adrianna-demibold.woff2") format("woff2");
+}
+@font-face {
+  font-display: swap;
+  font-family: "Adrianna";
+  font-style: normal;
+  font-weight: 800;
+  src: url("../fonts/Adrianna/adrianna-extrabold.woff2") format("woff2");
+}
+@font-face {
+  font-display: swap;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/Roboto/roboto-v32-cyrillic_latin-regular.woff2") format("woff2");
+}
+@font-face {
+  font-display: swap;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  src: url("../fonts/Roboto/roboto-v32-cyrillic_latin-500.woff2") format("woff2");
+}
+@font-face {
+  font-display: swap;
+  font-family: "Geologica";
+  font-style: normal;
+  font-weight: 200;
+  src: url("../fonts/Geologica/geologica-v1-cyrillic_latin-200.woff2") format("woff2");
+}
