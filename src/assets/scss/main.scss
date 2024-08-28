@@ -1,9 +1,0 @@
-/*style for main page*/
-
-.autoplacement-example {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-template-rows: auto auto;
-  grid-gap: 20px;
-  grid-area: 1/2/3/4;
-}
